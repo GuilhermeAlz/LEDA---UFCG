@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-20T14:48:05.900-0300</date>
+  <logger>GUILHERME ALBERTO DUTRA CAMELO</logger>
+  <level>FINE</level>
+  <message>File 121210159-GUILHERME ALBERTO DUTRA CAMELO.zip was received. It was sent by GUILHERME ALBERTO DUTRA CAMELO from IP 192.168.3.21 at 20-05-2023 14*48*05</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-20T16:14:16.391-0300</date>
+  <logger>GUILHERME ALBERTO DUTRA CAMELO</logger>
+  <level>FINE</level>
+  <message>File 121210159-GUILHERME ALBERTO DUTRA CAMELO.zip was received. It was sent by GUILHERME ALBERTO DUTRA CAMELO from IP 192.168.3.21 at 20-05-2023 16*14*16</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-05-22T15:05:10.983-0300</date>
+  <logger>GUILHERME ALBERTO DUTRA CAMELO</logger>
+  <level>FINE</level>
+  <message>File 121210159-GUILHERME ALBERTO DUTRA CAMELO.zip was received. It was sent by GUILHERME ALBERTO DUTRA CAMELO from IP 172.21.80.1 at 22-05-2023 15*05*10</message>
+</record>
